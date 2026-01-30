@@ -116,7 +116,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: "Capslock800000/Capslock800000.github.io"# <gh-username>/<repo>
+    repo:"Capslock800000/Capslock800000.github.io"# <gh-username>/<repo>
     repo_id:"R_kgDORD_dLw"
     category:"Announcements"
     category_id:"DIC_kwDORD_dL84C1oF8"
